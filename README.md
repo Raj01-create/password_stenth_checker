@@ -18,13 +18,7 @@ password-checker/
 │
 ├── main.py
 └── README.md
-Installation
-Clone the repository
-git clone https://github.com/your-username/password-checker.git
-Open the project folder
-cd password-checker
-Run the program
-python main.py
+
 Example:
 Enter password: hello123
 
