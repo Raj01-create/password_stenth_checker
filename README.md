@@ -52,5 +52,5 @@ User input handling
 Author
 
 Made with Python 🚀
-just a basic project
+
 
